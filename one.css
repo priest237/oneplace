@@ -1,0 +1,318 @@
+.moblie{
+    display: none;
+}
+.desktop{
+    
+}
+    
+
+.wecan{
+    background-color: #070c90;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    color: #fffbfb;
+    height: 48px;
+}
+.well-1{
+    font-size: 36px;
+    margin-left: 24px;
+}
+.follow-1{
+    margin-right: 24px;
+}
+.icons{
+    margin-left: 100px;
+    padding-left: 24px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-right: 24px;
+}
+.look{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 24px;
+}
+.cat{
+    align-items: center;
+    display: flex;
+}
+.btn-2{
+    width: 250px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 12px;
+    background-color: rgb(228, 223, 223);
+    border: none;
+    height: 36px;
+}
+.promo-2{
+    background-color: #070c90;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin-left: 120px;
+    margin-top: 24px;
+}
+.get-22{
+    margin-top: 0px;
+    font-size: 56px;
+    margin-left: 12px;
+    color: #fffbfb;
+}
+.pic-22{
+    width: 520px;
+}
+.sign-up-2{
+    font-size: 24px;
+    font-weight: bold;
+    padding: 16px 32px 16px 32px;
+    margin-left: 30px;
+    border-radius: 24px;
+    border: none;
+    background-color: #FBBC05;
+    color: #fffbfb;
+}
+.btn-3{
+    margin-top: 24px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 80%;
+    margin-left: 90px;
+}
+.btn-4{
+    background-color: #fffbfb;
+    padding: 8px 16px;
+    border-radius: 12px;
+    border-color: #070c90;
+    border-width: 1px;
+
+}
+.btn-42{
+    background-color: #fffbfb;
+    padding: 8px 16px;
+    border-radius: 12px;
+    border-color: #070c90;
+    border-width: 1px;
+    align-items: center;
+    display: flex;
+    margin-left: 200px;
+
+}
+.btn-5{
+    padding: 8px 32px;
+    border-radius: 12px;
+    border-width: 0px;
+    color: #fffbfb;
+    background-color: #FBBC05;
+    font-weight: bold;
+     
+    font-size: 24px;
+}
+.Trending-1{
+    margin-left: 120px;
+    margin-top: 48px;
+}
+.home-24{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.pic-24{
+    width: 200px;
+}
+.qwerty-12{
+    margin: 0px;
+    padding: 1px;
+}
+.info-12{
+    margin: 0px;
+    padding: 1px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+h5{
+    margin: 0px;
+    padding: 1px;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.stars{
+    margin-top: 0px;
+    padding: 1px;
+}
+.add-card{
+    background-color: #fffbfb;
+    border-width: 1px;
+    border-color: #070c90;
+    padding: 8px 16px;
+    border-radius: 12px;
+}
+
+
+
+.moblie{
+    background-color: whitesmoke;
+    align-items: center;
+    width: 400px;
+    
+  
+   
+}
+header{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.one{
+    width: 180px;
+    margin-left: 10px;
+    margin-top: 24px;
+}
+.btn{
+    font-size: 16px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-radius: 16px;
+    width: 120px;
+    height: 42px;
+    margin-left: 100px;
+    margin-top: 24px;
+    
+}
+.promo{
+    background-color: #070c90;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 380px;
+    height: 154px;
+    margin-left: 15px;
+    margin-top: 24px;
+    
+}
+.get{
+    font-size: 32px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    color: white;
+
+}
+.sign-up{
+    width: 123px;
+    height: 30px;
+    font-size: 16px;
+    margin-left: 10px;
+    border-radius: 12px;
+    background-color: #FBBC05;
+    color: white;
+    border: none;
+    margin-bottom: 20px;
+}
+.pic{
+    width: 200px;
+}
+.for-you{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 80%;
+}
+.send{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 30px;
+    text-align: justify;
+    margin-bottom: 0px;
+
+}
+.for{
+    margin: 15px;
+}
+.sub{
+    display: flex;
+    flex-direction: row;
+    margin: 24px;
+    margin-left: 30px;
+    margin-top: none;
+    font-size: 16px;
+    margin: 15px;
+}
+.home{
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin-left: 20px;
+}
+.pic-2{
+    width: 176px;
+}
+.qwerty{
+    margin: 0px;
+    padding: 0px;
+}
+.info{
+    margin: 0px;
+    padding: 1px;
+    font-size: 16px;
+    font-weight: bold
+}
+h5{
+    margin: 0px;
+    padding: 1px;
+    font-size: 16px;
+    font-weight: bolder;
+}
+footer{
+    border: solid;
+    border-width: 1px;
+    border-color: gray;
+    width: 100%;
+}
+.foot{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 10px;
+    text-align: justify;
+    margin-bottom: 0px;
+}
+h1{
+    
+   margin-left: 0px;
+}
+
+@media only screen and (max-width: 750px) {
+    body {
+      
+      width: 400px;
+    }
+    .desktop{
+        display: none;
+    }
+      .moblie{
+        display: flex;
+          flex-direction: column;
+    }
+  }
